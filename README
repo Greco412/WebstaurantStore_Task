@@ -1,0 +1,7 @@
+This code is intended to fulfill the Screening Task provided by WebstaurantStore
+
+It can be run if the latest version of Selenium is added to the build path and started from the main method.
+
+It executes a single test case in a Chrome web browser operated by a Selenium web driver.
+
+Given the specifications, the test case currently fails due to encountering a product listing title that doesn't match the expected criteria.
